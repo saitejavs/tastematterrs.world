@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tastematters.world/sitemap.xml
